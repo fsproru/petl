@@ -34,7 +34,7 @@ module ETL::Example
 
   def extract
     # Grab all data from source(s) here.
-    # Perferrably return an array of hashes.
+    # Preferrably return an array of hashes.
   end
 
   def transform rows
